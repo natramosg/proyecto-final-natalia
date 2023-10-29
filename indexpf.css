@@ -1,0 +1,51 @@
+header {
+    background-color: #eedbbd;
+    color: #fff;
+    padding: 100px;
+  }
+  
+
+  .animation {
+    text-align: center;
+  }
+  
+  .animation img {
+    animation: spin 2s linear infinite;
+  }
+  
+  @keyframes spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  }
+  
+ 
+  footer {
+    background-color: #ecc593f2;
+    color: #fff;
+    padding: 20px;
+  }
+
+  h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100px;
+    text-align: center;
+
+  }
+
+ 
+
+  a{
+    font-family:'Times New Roman', Times, serif
+    font-size: 20px;
+    color: white;
+
+
+
+  }
+
+  img{
+
+    width: 250px;
+    height: 400px;
+  
+  }
